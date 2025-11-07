@@ -1,0 +1,20 @@
+{
+  "LastRelease": null,
+  "LoadInfo": false,
+  "Name": "THREE KINGDOMS CHAR",
+  "DisplayName": "THREE KINGDOMS CHAR",
+  "GameVersion": 1.2,
+  "Version": "1.4",
+  "Desc": "[Author]\r\n    KamalMlvnd\r\n[Deskripsi]\r\n List Name Character Rencarnation New Game : Lu Bu,Diao Chan,Yan Xueya,Shang Yun,Xia Yuanyi,Jin Wei,Da Qiao,Han Yan",
+  "Author": "KamalMlvnd",
+  "UIPackage": null,
+  "ID": "",
+  "Flag": 0,
+  "Tags": ["OtherWorld","Reincarnation","Non-Chinese"],
+  "IncreasedDesc": "",
+  "IsInsideCreat": false,
+  "Previews": null,
+  "Dependencies": null,
+  "Url": "https://github.com/kamalvnda/Three-Kingdoms-Char",
+  "VersionValue": 104.0
+}
